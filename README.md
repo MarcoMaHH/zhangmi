@@ -8,14 +8,6 @@
 
 老了，总是记不住各种各样的账密密码，所以开发了这个账号密码管理助手。本项目采用微信小程序云开发，零成本，而且安全可靠。
 
-
-
-连银行卡的密码都不记得怎么办？？？但这些密码不放心放在腾讯那里，毕竟是人家的服务器。所以有了下面版本，连接家里的服务器。
-
-服务器端： [最常用/rent3 (gitee.com)](https://gitee.com/MarcoMaHH/rent3)
-
-小程序端：[最常用/账密 (gitee.com)](https://gitee.com/MarcoMaHH/account-secret)
-
 ## How It Works
 
 1. 填写主密码，注册账号
