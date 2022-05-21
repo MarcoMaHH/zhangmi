@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/add/add",
+    "pages/modify/modify",
+    "pages/accounts/accounts",
+    "pages/about/about",
+    "pages/personal/personal"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "老黄狗账密",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#bfbfbf",
+    "selectedColor": "#9fc6ff",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "/images/icon_home.png",
+        "selectedIconPath": "/images/icon_home_selected.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/add/add",
+        "iconPath": "/images/icon_add.png",
+        "selectedIconPath": "/images/icon_add_selected.png",
+        "text": "创建"
+      },
+      {
+        "pagePath": "pages/personal/personal",
+        "iconPath": "/images/icon_personal.png",
+        "selectedIconPath": "/images/icon_personal_selected.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

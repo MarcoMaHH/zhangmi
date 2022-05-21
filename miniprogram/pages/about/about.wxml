@@ -1,0 +1,12 @@
+<view class='margin-xl bg-white padding-xl radius shadow-lg'>
+    <view class='text-center margin-bottom text-lg  text-grey'>关于老黄狗账密</view>
+    <view class='text-content'>
+        <view>Hi！朋友们~欢迎使用老黄狗账密！</view>
+        <view class='margin-top-sm'>
+            好记性不如烂笔头。还在为记不住各种各样的账号密码而烦恼吗？如果不想再出现手指停留在屏幕上欲动又止，感觉既熟悉又陌生的情况。听妈妈的话吧，早点用老黄狗账密，拥有属于自己的账号密码管理系统。
+        </view>
+        <view class='margin-top-sm'>
+            本小程序只是一个demo，如果想要拥有完全属于自己的账密小程序，请联系管理员。这样的话数据将更加安全。
+        </view>
+    </view>
+</view>

@@ -1,0 +1,4 @@
+//Page Object
+Page({
+  data: {}
+});

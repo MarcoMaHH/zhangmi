@@ -1,0 +1,26 @@
+<form>
+  <view class="cu-form-group">
+    <view class="title">名称</view>
+    <input value="{{name}}" bindinput="onNameInput" placeholder="请输入名称(必填)"></input>
+  </view>
+  <view class="cu-form-group">
+    <view class="title">账号</view>
+    <input value="{{account}}" bindinput="onAccountInput" placeholder="请输入账号"></input>
+  </view>
+  <view class="cu-form-group">
+    <view class="title">密码</view>
+    <input value="{{password}}" bindinput="onPasswordInput" placeholder="请输入密码"></input>
+  </view>
+  <view class="cu-form-group">
+    <view class="title">备注</view>
+    <input value="{{note}}" bindinput="onNoteInput" placeholder="请输入备注"></input>
+  </view>
+  <view class="cu-form-group">
+    <view class="title">分类</view>
+    <picker range='{{type}}' value='{{index}}' bindchange='PickerChange' range-key="name">
+      <view class='picker'>{{type[index].name}}</view>
+    </picker>
+  </view>
+</form>
+<text>\n</text>
+<button type="primary" bindtap="onButtonTap">创建</button>
