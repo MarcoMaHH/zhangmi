@@ -1,4 +1,4 @@
-本人的新项目“最常用工具箱”，都去看看吧。
+本人的新项目，都去看看吧。
 
 <img src="https://gitee.com/MarcoMaHH/imges/raw/master/newProject.jpg" alt="新项目" />
 
